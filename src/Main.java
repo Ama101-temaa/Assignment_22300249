@@ -3,6 +3,7 @@ public class Main {
     public static void main(String[] args){
 
 
+
         GradeReport.executeGradeReport(84.3);
 
         double average1 = ClassAverageCalc.calculateClassAverage(45,90);
